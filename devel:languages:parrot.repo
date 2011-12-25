@@ -1,0 +1,6 @@
+[devel:languages:parrot]
+enabled=1
+autorefresh=0
+baseurl=http://download.opensuse.org/repositories/devel:/languages:/parrot/openSUSE_Factory
+type=rpm-md
+keeppackages=0

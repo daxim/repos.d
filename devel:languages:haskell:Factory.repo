@@ -1,0 +1,6 @@
+[devel:languages:haskell:Factory]
+enabled=1
+autorefresh=0
+baseurl=http://download.opensuse.org/repositories/devel:/languages:/haskell/openSUSE_Factory
+type=rpm-md
+keeppackages=0

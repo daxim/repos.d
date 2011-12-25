@@ -1,0 +1,6 @@
+[drivers:webcam]
+enabled=1
+autorefresh=0
+baseurl=http://download.opensuse.org/repositories/drivers:/webcam/openSUSE_Factory
+type=rpm-md
+keeppackages=0

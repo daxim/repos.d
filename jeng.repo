@@ -1,0 +1,6 @@
+[jeng]
+enabled=1
+autorefresh=0
+baseurl=http://jftp.medozas.de/openSUSE_12.1
+type=rpm-md
+keeppackages=0

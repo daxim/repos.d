@@ -1,0 +1,6 @@
+[vdr]
+enabled=1
+autorefresh=0
+baseurl=http://download.opensuse.org/repositories/vdr/openSUSE_Factory
+type=rpm-md
+keeppackages=0

@@ -1,0 +1,6 @@
+[Base:build:standard]
+enabled=1
+autorefresh=0
+baseurl=http://download.opensuse.org/repositories/Base:/build/standard
+type=rpm-md
+keeppackages=0

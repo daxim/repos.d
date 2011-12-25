@@ -1,0 +1,6 @@
+[graphics]
+enabled=1
+autorefresh=0
+baseurl=http://download.opensuse.org/repositories/graphics/openSUSE_12.1
+type=rpm-md
+keeppackages=0

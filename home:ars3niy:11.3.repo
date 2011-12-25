@@ -1,0 +1,6 @@
+[home:ars3niy:11.3]
+enabled=1
+autorefresh=0
+baseurl=http://download.opensuse.org/repositories/home:/ars3niy/openSUSE_11.3
+type=rpm-md
+keeppackages=0

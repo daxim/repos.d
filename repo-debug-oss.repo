@@ -1,0 +1,6 @@
+[repo-debug-oss]
+enabled=1
+autorefresh=0
+baseurl=http://download.opensuse.org/debug/distribution/12.1/repo/oss
+type=yast2
+keeppackages=1

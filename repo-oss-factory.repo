@@ -1,0 +1,6 @@
+[repo-oss-factory]
+enabled=1
+autorefresh=0
+baseurl=http://download.opensuse.org/factory-tested/repo/oss
+type=yast2
+keeppackages=1

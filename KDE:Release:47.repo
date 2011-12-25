@@ -1,0 +1,6 @@
+[KDE:Release:47]
+enabled=1
+autorefresh=0
+baseurl=http://download.opensuse.org/repositories/KDE:/Release:/47/openSUSE_12.1
+type=rpm-md
+keeppackages=0

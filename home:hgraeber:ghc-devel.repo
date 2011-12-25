@@ -1,0 +1,6 @@
+[home:hgraeber:ghc-devel]
+enabled=1
+autorefresh=0
+baseurl=http://download.opensuse.org/repositories/home:/hgraeber:/ghc-devel/openSUSE_Factory
+type=rpm-md
+keeppackages=0
