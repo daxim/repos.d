@@ -1,6 +1,0 @@
-[KDE:Unstable:SC]
-enabled=0
-autorefresh=0
-baseurl=http://download.opensuse.org/repositories/KDE:/Unstable:/SC/openSUSE_12.1
-type=rpm-md
-keeppackages=0

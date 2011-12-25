@@ -1,6 +1,0 @@
-[KDE:Unstable:Playground]
-enabled=0
-autorefresh=0
-baseurl= http://download.opensuse.org/repositories/KDE:/Unstable:/Playground/KDE_Release_47_openSUSE_12.1
-type=rpm-md
-keeppackages=0
