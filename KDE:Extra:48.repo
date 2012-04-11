@@ -1,0 +1,6 @@
+[KDE:Extra:48]
+enabled=1
+autorefresh=0
+baseurl=http://download.opensuse.org/repositories/KDE:/Extra/KDE_Release_48_openSUSE_12.1
+type=rpm-md
+keeppackages=0
