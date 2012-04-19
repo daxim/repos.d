@@ -1,6 +1,0 @@
-[home:firebird619:haskell]
-enabled=1
-autorefresh=0
-baseurl=http://download.opensuse.org/repositories/home:/firebird619:/haskell/openSUSE_Factory
-type=rpm-md
-keeppackages=0

@@ -1,6 +1,0 @@
-[home:ptrommler:devel:languages:haskell:11.4]
-enabled=1
-autorefresh=0
-baseurl=http://download.opensuse.org/repositories/home:/ptrommler:/devel:/languages:/haskell/openSUSE_11.4
-type=rpm-md
-keeppackages=0

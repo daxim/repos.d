@@ -1,0 +1,6 @@
+[devel:languages:haskell]
+enabled=1
+autorefresh=0
+baseurl=http://download.opensuse.org/repositories/devel:/languages:/haskell/openSUSE_12.1
+type=rpm-md
+keeppackages=0
