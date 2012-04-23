@@ -1,0 +1,6 @@
+[home:Herbster0815]
+enabled=1
+autorefresh=0
+baseurl=http://download.opensuse.org/repositories/home:/Herbster0815/openSUSE_12.1
+type=rpm-md
+keeppackages=0
