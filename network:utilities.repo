@@ -1,6 +1,6 @@
 [network:utilities]
 enabled=1
 autorefresh=0
-baseurl=http://download.opensuse.org/repositories/network:/utilities/openSUSE_12.1
+baseurl=http://download.opensuse.org/repositories/network:/utilities/openSUSE_12.2
 type=rpm-md
 keeppackages=0

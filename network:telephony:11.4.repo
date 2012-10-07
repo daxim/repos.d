@@ -1,6 +1,0 @@
-[network:telephony:11.4]
-enabled=1
-autorefresh=0
-baseurl=http://download.opensuse.org/repositories/network:/telephony/openSUSE_11.4
-type=rpm-md
-keeppackages=0

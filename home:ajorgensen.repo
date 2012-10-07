@@ -1,6 +1,0 @@
-[home:ajorgensen]
-enabled=1
-autorefresh=0
-baseurl=http://download.opensuse.org/repositories/home:/ajorgensen/openSUSE_Factory
-type=rpm-md
-keeppackages=0

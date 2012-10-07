@@ -1,6 +1,6 @@
 [games]
 enabled=1
 autorefresh=0
-baseurl=http://download.opensuse.org/repositories/games/openSUSE_12.1
+baseurl=http://download.opensuse.org/repositories/games/openSUSE_12.2
 type=rpm-md
 keeppackages=0

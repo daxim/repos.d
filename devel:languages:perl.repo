@@ -1,6 +1,6 @@
 [devel:languages:perl]
 enabled=1
 autorefresh=0
-baseurl=http://download.opensuse.org/repositories/devel:/languages:/perl/openSUSE_12.1
+baseurl=http://download.opensuse.org/repositories/devel:/languages:/perl/openSUSE_12.2
 type=rpm-md
 keeppackages=0

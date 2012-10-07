@@ -1,6 +1,0 @@
-[repo-debug-oss-update]
-enabled=1
-autorefresh=0
-baseurl=http://download.opensuse.org/debug/update/12.1
-type=rpm-md
-keeppackages=1

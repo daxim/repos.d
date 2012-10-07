@@ -1,6 +1,6 @@
 [KDE:Release:49]
 enabled=1
 autorefresh=0
-baseurl=http://download.opensuse.org/repositories/KDE:/Release:/49/openSUSE_12.1
+baseurl=http://download.opensuse.org/repositories/KDE:/Release:/49/openSUSE_12.2
 type=rpm-md
 keeppackages=0

@@ -1,0 +1,6 @@
+[repo-update-non-oss]
+enabled=1
+autorefresh=0
+baseurl=http://download.opensuse.org/update/12.2-non-oss
+type=rpm-md
+keeppackages=1

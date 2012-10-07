@@ -1,4 +1,4 @@
-[home:prusnak]
+[home:prusnak:12.1]
 enabled=1
 autorefresh=0
 baseurl=http://download.opensuse.org/repositories/home:/prusnak/openSUSE_12.1

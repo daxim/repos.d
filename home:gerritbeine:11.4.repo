@@ -1,6 +1,0 @@
-[home:gerritbeine:11.4]
-enabled=1
-autorefresh=0
-baseurl=http://download.opensuse.org/repositories/home:/gerritbeine/openSUSE_11.4
-type=rpm-md
-keeppackages=0

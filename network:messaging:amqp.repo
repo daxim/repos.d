@@ -1,6 +1,6 @@
 [network:messaging:amqp]
 enabled=1
 autorefresh=0
-baseurl=http://download.opensuse.org/repositories/network:/messaging:/amqp/openSUSE_Factory
+baseurl=http://download.opensuse.org/repositories/network:/messaging:/amqp/openSUSE_12.2
 type=rpm-md
 keeppackages=0

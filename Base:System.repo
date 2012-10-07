@@ -1,6 +1,6 @@
 [Base:System]
 enabled=1
 autorefresh=0
-baseurl=http://download.opensuse.org/repositories/Base:/System/openSUSE_12.1
+baseurl=http://download.opensuse.org/repositories/Base:/System/openSUSE_12.2_standard
 type=rpm-md
 keeppackages=0

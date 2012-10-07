@@ -1,6 +1,6 @@
 [KDE:Qt:50]
 enabled=1
 autorefresh=0
-baseurl=http://download.opensuse.org/repositories/KDE:/Qt50/openSUSE_12.1
+baseurl=http://download.opensuse.org/repositories/KDE:/Qt50/openSUSE_12.2
 type=rpm-md
 keeppackages=0
