@@ -1,6 +1,0 @@
-[server:search:11.4]
-enabled=1
-autorefresh=0
-baseurl=http://download.opensuse.org/repositories/server:/search/openSUSE_11.4
-type=rpm-md
-keeppackages=0
