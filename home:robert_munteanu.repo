@@ -1,0 +1,6 @@
+[home:robert_munteanu]
+enabled=1
+autorefresh=0
+baseurl=http://download.opensuse.org/repositories/home:/robert_munteanu/openSUSE_12.2
+type=rpm-md
+keeppackages=0
