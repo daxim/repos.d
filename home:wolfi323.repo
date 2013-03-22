@@ -1,6 +1,6 @@
 [home:wolfi323]
 enabled=1
 autorefresh=0
-baseurl=http://download.opensuse.org/repositories/home:/wolfi323/openSUSE_12.2
+baseurl=http://download.opensuse.org/repositories/home:/wolfi323/openSUSE_12.3
 type=rpm-md
 keeppackages=0

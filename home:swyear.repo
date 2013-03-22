@@ -1,6 +1,6 @@
 [home:swyear]
 enabled=1
 autorefresh=0
-baseurl=http://download.opensuse.org/repositories/home:/swyear/openSUSE_12.2
+baseurl=http://download.opensuse.org/repositories/home:/swyear/openSUSE_Factory
 type=rpm-md
 keeppackages=0

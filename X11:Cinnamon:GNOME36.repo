@@ -1,0 +1,6 @@
+[X11:Cinnamon:GNOME36]
+enabled=1
+autorefresh=0
+baseurl=http://download.opensuse.org/repositories/X11:/Cinnamon:/GNOME36/12.2_GNOME36
+type=rpm-md
+keeppackages=0

@@ -1,6 +1,6 @@
 [X11:windowmanagers]
 enabled=1
 autorefresh=0
-baseurl=http://download.opensuse.org/repositories/X11:/windowmanagers/openSUSE_12.2
+baseurl=http://download.opensuse.org/repositories/X11:/windowmanagers/openSUSE_12.3
 type=rpm-md
 keeppackages=0

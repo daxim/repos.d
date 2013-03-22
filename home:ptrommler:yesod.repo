@@ -1,6 +1,6 @@
 [home:ptrommler:yesod]
 enabled=1
 autorefresh=0
-baseurl=http://download.opensuse.org/repositories/home:/ptrommler:/yesod/openSUSE_12.2
+baseurl=http://download.opensuse.org/repositories/home:/ptrommler:/yesod/openSUSE_Factory
 type=rpm-md
 keeppackages=0

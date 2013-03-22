@@ -1,6 +1,6 @@
 [Java:packages]
 enabled=0
 autorefresh=0
-baseurl=http://download.opensuse.org/repositories/Java:/packages/openSUSE_12.2
+baseurl=http://download.opensuse.org/repositories/Java:/packages/openSUSE_12.3
 type=rpm-md
 keeppackages=0

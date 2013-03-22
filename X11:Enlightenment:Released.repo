@@ -1,6 +1,6 @@
 [X11:Enlightenment:Released]
 enabled=1
 autorefresh=0
-baseurl=http://download.opensuse.org/repositories/X11:/Enlightenment:/Released/openSUSE_12.2
+baseurl=http://download.opensuse.org/repositories/X11:/Enlightenment:/Released/openSUSE_Factory
 type=rpm-md
 keeppackages=0

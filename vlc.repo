@@ -1,6 +1,6 @@
 [vlc]
 enabled=1
 autorefresh=0
-baseurl=http://download.videolan.org/pub/vlc/SuSE/12.2
+baseurl=http://download.videolan.org/pub/vlc/SuSE/12.3
 type=rpm-md
 keeppackages=0

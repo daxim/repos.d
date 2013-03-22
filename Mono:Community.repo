@@ -1,6 +1,6 @@
 [Mono:Community]
 enabled=1
 autorefresh=0
-baseurl=http://download.opensuse.org/repositories/Mono:/Community/openSUSE_Factory+Mono
+baseurl=http://download.opensuse.org/repositories/Mono:/Community/openSUSE_12.3
 type=rpm-md
 keeppackages=0

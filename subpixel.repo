@@ -1,6 +1,6 @@
 [subpixel]
 enabled=1
 autorefresh=0
-baseurl=http://repos.opensuse-community.org/subpixel/openSUSE_12.2
+baseurl=http://repos.opensuse-community.org/subpixel/openSUSE_Tumbleweed
 type=rpm-md
 keeppackages=0

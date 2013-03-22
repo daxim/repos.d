@@ -1,6 +1,6 @@
 [M17N]
 enabled=1
 autorefresh=0
-baseurl=http://download.opensuse.org/repositories/M17N/openSUSE_12.2
+baseurl=http://download.opensuse.org/repositories/M17N/openSUSE_12.3
 type=rpm-md
 keeppackages=0

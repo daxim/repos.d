@@ -1,6 +1,0 @@
-[devel:languages:misc:Factory]
-enabled=1
-autorefresh=0
-baseurl=http://download.opensuse.org/repositories/devel:/languages:/misc/openSUSE_Factory
-type=rpm-md
-keeppackages=0

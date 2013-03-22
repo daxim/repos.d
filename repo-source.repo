@@ -1,6 +1,6 @@
 [repo-source]
 enabled=1
 autorefresh=0
-baseurl=http://download.opensuse.org/source/distribution/12.2/repo/oss
+baseurl=http://download.opensuse.org/source/distribution/12.3/repo/oss
 type=yast2
 keeppackages=1

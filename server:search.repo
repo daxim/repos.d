@@ -1,6 +1,6 @@
 [server:search]
 enabled=1
 autorefresh=0
-baseurl=http://download.opensuse.org/repositories/server:/search/openSUSE_12.2
+baseurl=http://download.opensuse.org/repositories/server:/search/openSUSE_Factory
 type=rpm-md
 keeppackages=0

@@ -1,6 +1,6 @@
 [GNOME:Apps]
 enabled=1
 autorefresh=0
-baseurl=http://download.opensuse.org/repositories/GNOME:/Apps/openSUSE_12.2
+baseurl=http://download.opensuse.org/repositories/GNOME:/Apps/openSUSE_12.3
 type=rpm-md
 keeppackages=0

@@ -1,6 +1,6 @@
 [X11:MATE]
 enabled=1
 autorefresh=0
-baseurl=http://download.opensuse.org/repositories/X11:/MATE/12.2
+baseurl=http://download.opensuse.org/repositories/X11:/MATE/openSUSE_12.3
 type=rpm-md
 keeppackages=0

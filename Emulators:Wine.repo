@@ -1,6 +1,6 @@
 [Emulators:Wine]
 enabled=1
 autorefresh=0
-baseurl=http://download.opensuse.org/repositories/Emulators:/Wine/openSUSE_12.2
+baseurl=http://download.opensuse.org/repositories/Emulators:/Wine/openSUSE_12.3
 type=rpm-md
 keeppackages=0

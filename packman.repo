@@ -1,6 +1,6 @@
 [packman]
 enabled=1
 autorefresh=0
-baseurl=http://packman.inode.at/suse/12.2
+baseurl=http://packman.inode.at/suse/12.3
 type=rpm-md
 keeppackages=0
