@@ -1,0 +1,6 @@
+[security:Stunnel]
+enabled=1
+autorefresh=0
+baseurl=http://download.opensuse.org/repositories/security:/Stunnel/openSUSE_12.3
+type=rpm-md
+keeppackages=0
