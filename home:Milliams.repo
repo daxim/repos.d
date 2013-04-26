@@ -1,6 +1,0 @@
-[home:Milliams]
-enabled=1
-autorefresh=0
-baseurl=http://download.opensuse.org/repositories/home:/Milliams/openSUSE_Factory
-type=rpm-md
-keeppackages=0
