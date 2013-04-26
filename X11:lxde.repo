@@ -1,0 +1,6 @@
+[X11:lxde]
+enabled=1
+autorefresh=0
+baseurl=http://download.opensuse.org/repositories/X11:/lxde/openSUSE_12.3
+type=rpm-md
+keeppackages=0
