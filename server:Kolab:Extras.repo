@@ -1,0 +1,6 @@
+[server:Kolab:Extras]
+enabled=1
+autorefresh=0
+baseurl=http://download.opensuse.org/repositories/server:/Kolab:/Extras/openSUSE_13.1
+type=rpm-md
+keeppackages=0

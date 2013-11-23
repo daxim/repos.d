@@ -1,0 +1,6 @@
+[X11:Cinnamon:Factory]
+enabled=1
+autorefresh=0
+baseurl=http://download.opensuse.org/repositories/X11:/Cinnamon:/Factory/openSUSE_13.1
+type=rpm-md
+keeppackages=0

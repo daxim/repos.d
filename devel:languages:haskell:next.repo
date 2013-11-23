@@ -1,6 +1,0 @@
-[devel:languages:haskell:next]
-enabled=1
-autorefresh=0
-baseurl=http://download.opensuse.org/repositories/devel:/languages:/haskell:/next/openSUSE_12.3
-type=rpm-md
-keeppackages=0

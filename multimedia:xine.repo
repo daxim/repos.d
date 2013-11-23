@@ -1,6 +1,6 @@
 [multimedia:xine]
 enabled=1
 autorefresh=0
-baseurl=http://download.opensuse.org/repositories/multimedia:/xine/openSUSE_Factory
+baseurl=http://download.opensuse.org/repositories/multimedia:/xine/openSUSE_13.1
 type=rpm-md
 keeppackages=0

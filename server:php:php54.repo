@@ -1,6 +1,0 @@
-[server:php:php54]
-enabled=1
-autorefresh=0
-baseurl=http://download.opensuse.org/repositories/devel:/languages:/php:/php54/openSUSE_12.3
-type=rpm-md
-keeppackages=0

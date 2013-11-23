@@ -1,6 +1,0 @@
-[GNOME:Stable:36]
-enabled=1
-autorefresh=0
-baseurl=http://download.opensuse.org/repositories/GNOME:/STABLE:/3.6/openSUSE_12.2
-type=rpm-md
-keeppackages=0

@@ -1,0 +1,6 @@
+[server:monitoring:gearman]
+enabled=1
+autorefresh=0
+baseurl=http://download.opensuse.org/repositories/server:/monitoring:/gearman/openSUSE_13.1
+type=rpm-md
+keeppackages=0

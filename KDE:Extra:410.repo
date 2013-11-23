@@ -1,6 +1,0 @@
-[KDE:Extra:410]
-enabled=1
-autorefresh=0
-baseurl=http://download.opensuse.org/repositories/KDE:/Extra/KDE_Release_410_openSUSE_12.3
-type=rpm-md
-keeppackages=0

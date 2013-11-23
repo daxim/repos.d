@@ -1,6 +1,6 @@
 [nvidia]
 enabled=1
 autorefresh=0
-baseurl=http://download.nvidia.com/opensuse/12.3/
+baseurl=http://download.nvidia.com/opensuse/13.1/
 type=rpm-md
 keeppackages=0

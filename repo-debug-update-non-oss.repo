@@ -1,6 +1,6 @@
 [repo-debug-update-non-oss]
 enabled=1
 autorefresh=0
-baseurl=http://download.opensuse.org/debug/update/12.3-non-oss
+baseurl=http://download.opensuse.org/debug/update/13.1-non-oss
 type=rpm-md
 keeppackages=1

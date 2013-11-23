@@ -1,0 +1,6 @@
+[X11:Enlightenment:EWebKit]
+enabled=1
+autorefresh=0
+baseurl=http://download.opensuse.org/repositories/X11:/Enlightenment:/EWebKit/openSUSE_Factory
+type=rpm-md
+keeppackages=0

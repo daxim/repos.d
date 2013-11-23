@@ -1,6 +1,6 @@
 [Apache:Modules]
 enabled=1
 autorefresh=0
-baseurl=http://download.opensuse.org/repositories/Apache:/Modules/openSUSE_12.3
+baseurl=http://download.opensuse.org/repositories/Apache:/Modules/openSUSE_13.1
 type=rpm-md
 keeppackages=0
