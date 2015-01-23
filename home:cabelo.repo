@@ -1,6 +1,6 @@
-[home:cabelo]
+[home:sbrabec]
 enabled=1
 autorefresh=0
-baseurl=http://download.opensuse.org/repositories/home:/cabelo/openSUSE_Factory
+baseurl=http://download.opensuse.org/repositories/home:/sbrabec/openSUSE_13.2
 type=rpm-md
 keeppackages=0

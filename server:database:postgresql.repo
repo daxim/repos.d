@@ -1,6 +1,6 @@
 [server:database:postgresql]
 enabled=1
 autorefresh=0
-baseurl=http://download.opensuse.org/repositories/server:/database:/postgresql/openSUSE_13.1
+baseurl=http://download.opensuse.org/repositories/server:/database:/postgresql/openSUSE_13.2
 type=rpm-md
 keeppackages=0

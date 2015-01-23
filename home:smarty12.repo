@@ -1,0 +1,6 @@
+[home:smarty12]
+enabled=1
+autorefresh=0
+baseurl=http://download.opensuse.org/repositories/home:/smarty12/openSUSE_13.2
+type=rpm-md
+keeppackages=0

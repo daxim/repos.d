@@ -1,6 +1,0 @@
-[systemsmanagement:chef]
-enabled=1
-autorefresh=0
-baseurl=http://download.opensuse.org/repositories/systemsmanagement:/chef:/master/openSUSE_13.1
-type=rpm-md
-keeppackages=0

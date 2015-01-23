@@ -1,6 +1,6 @@
 [devel:libraries:c_c++]
 enabled=1
 autorefresh=0
-baseurl=http://download.opensuse.org/repositories/devel:/libraries:/c_c++/openSUSE_13.1
+baseurl=http://download.opensuse.org/repositories/devel:/libraries:/c_c++/openSUSE_13.2
 type=rpm-md
 keeppackages=0

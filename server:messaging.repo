@@ -1,6 +1,6 @@
 [server:messaging]
 enabled=1
 autorefresh=0
-baseurl=http://download.opensuse.org/repositories/server:/messaging/openSUSE_Factory
+baseurl=http://download.opensuse.org/repositories/server:/messaging/openSUSE_13.2
 type=rpm-md
 keeppackages=0

@@ -1,0 +1,6 @@
+[home:ecsos]
+enabled=1
+autorefresh=0
+baseurl=http://download.opensuse.org/repositories/home:/ecsos/openSUSE_13.2
+type=rpm-md
+keeppackages=0

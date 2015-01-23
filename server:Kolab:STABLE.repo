@@ -1,6 +1,0 @@
-[server:Kolab:STABLE]
-enabled=1
-autorefresh=0
-baseurl=http://download.opensuse.org/repositories/server:/Kolab:/STABLE/openSUSE_13.1
-type=rpm-md
-keeppackages=0

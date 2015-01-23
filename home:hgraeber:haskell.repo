@@ -1,6 +1,0 @@
-[home:hgraeber:haskell]
-enabled=1
-autorefresh=0
-baseurl=http://download.opensuse.org/repositories/home:/hgraeber:/haskell/openSUSE_13.1_devel_languages_haskell
-type=rpm-md
-keeppackages=0

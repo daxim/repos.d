@@ -1,6 +1,7 @@
 [repo-debug-update]
 enabled=1
 autorefresh=0
-baseurl=http://download.opensuse.org/debug/update/13.1
+baseurl=http://download.opensuse.org/debug/update/13.2
 type=rpm-md
+priority=50
 keeppackages=1

@@ -1,6 +1,7 @@
 [KDE:Extra]
 enabled=1
 autorefresh=0
-baseurl=http://download.opensuse.org/repositories/KDE:/Extra/openSUSE_13.1
+baseurl=http://download.opensuse.org/repositories/KDE:/Extra/openSUSE_13.2
 type=rpm-md
+priority=42
 keeppackages=0

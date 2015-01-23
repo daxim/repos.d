@@ -1,0 +1,6 @@
+[packman:Games]
+enabled=1
+autorefresh=0
+baseurl=http://packman.inode.at/suse/openSUSE_13.2/Games
+type=rpm-md
+keeppackages=0

@@ -1,6 +1,6 @@
 [home:adra]
 enabled=1
 autorefresh=0
-baseurl=http://download.opensuse.org/repositories/home:/adra/openSUSE_13.1
+baseurl=http://download.opensuse.org/repositories/home:/adra/openSUSE_13.2
 type=rpm-md
 keeppackages=0
